@@ -4,7 +4,7 @@ I'm a **UI/Graphic Designer** and a passionate **Frontend Developer** in the mak
 
 ---
 
-![Image]([https://github.com/user-attachments/assets/a43fc991-a0b8-477d-8069-a077af8f0e36](https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/Animation.gif)  
+![Image](https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/Animation.gif)  
 <h2 align="center"><i>Experience | Minimalism</i></h2>
 
 ---
@@ -21,19 +21,19 @@ I'm a **UI/Graphic Designer** and a passionate **Frontend Developer** in the mak
 
 <div align="left" style="display: flex; justify-content: space-between; gap: 50px;">
   <a href="https://figma.com">
-    <img src="https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/ICO-01" width="60" height="60" alt="Figma" />
+    <img src="https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/ICO-01.jpg" width="60" height="60" alt="Figma" />
   </a>
   <a href="https://www.adobe.com/in/products/illustrator/campaign/pricing.html">
-    <img src="https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/ICO-02" width="60" height="60" alt="Adobe Illustrator" />
+    <img src="https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/ICO-02.jpg" width="60" height="60" alt="Adobe Illustrator" />
   </a>
   <a href="https://www.adobe.com/in/products/photoshop/landpa.html">
-    <img src="https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/ICO-03" width="60" height="60" alt="Adobe Photoshop" />
+    <img src="https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/ICO-03.jpg" width="60" height="60" alt="Adobe Photoshop" />
   </a>
   <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/ICO-04" width="60" height="60" alt="React.js" />
+    <img src="https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/ICO-04.jpg" width="60" height="60" alt="React.js" />
   </a>
   <a href="https://tailwindcss.com/">
-    <img src="https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/ICO-05" width="60" height="60" alt="Tailwind CSS" />
+    <img src="https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/ICO-05.jpg" width="60" height="60" alt="Tailwind CSS" />
   </a>
 </div>
 
