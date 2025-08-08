@@ -58,11 +58,11 @@ I'm a **UI/Graphic Designer** and a passionate **Frontend Developer** in the mak
 ### Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/dhruv-sadrawala22" target="_blank">
-    <img width="60" height="60" alt="LinkedIn" src="https://github.com/user-attachments/assets/4669c901-def0-4a85-bf76-e5a78e98c911" />
+    <img width="60" height="60" alt="LinkedIn" src="https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/ICO-06.jpg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.behance.net/dstudiosgraphics22" target="_blank">
-    <img width="60" height="60" alt="Behance" src="https://github.com/user-attachments/assets/7efcbc6c-99c6-408e-9bef-7294bd8bae4b" />
+    <img width="60" height="60" alt="Behance" src="https://raw.githubusercontent.com/Dhruv-Sadrawala/Dhruv-Sadrawala/main/ICO-07.jpg" />
   </a>
 </p>
 
